@@ -1,0 +1,15 @@
+{
+  "name": "cryptorobotsvszombies",
+  "version": "1.0.0",
+  "description": "----------------------------------------------------------------------------------",
+  "main": "Contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loom-js": "^1.8.0",
+    "loom-truffle-provider": "^0.2.0"
+  }
+}
